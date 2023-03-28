@@ -1,1 +1,1 @@
-# Microservice architecture frontend service module  for an  internet store
+# Microservice architecture frontend module  for an  internet store
