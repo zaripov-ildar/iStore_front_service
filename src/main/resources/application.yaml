@@ -1,0 +1,4 @@
+server:
+  port: 8019
+  servlet:
+    context-path: /front
